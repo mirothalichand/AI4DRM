@@ -1,6 +1,6 @@
 # AI4DRM: Artificial Intelligence for Disaster Risk Management
 
-## 🌍 About the Workshop
+## About the Workshop
 
 **Welcome to an immersive deep learning experience!**
 
@@ -10,7 +10,7 @@ Whether you're a student, researcher, or professional looking to advance your AI
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 This repository contains all the study materials, code notebooks, and datasets used during the workshop. The content is organized by session:
 
@@ -32,7 +32,7 @@ Dedicates to computer vision applications in disaster management.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To make the most of this workshop, we recommend running the notebooks in a cloud environment like Google Colab or a local environment with GPU support.
 
@@ -56,7 +56,7 @@ To make the most of this workshop, we recommend running the notebooks in a cloud
 
 ---
 
-## 📚 Resources
+## Resources
 - **NeuralHydrology Documentation**: [https://neuralhydrology.readthedocs.io](https://neuralhydrology.readthedocs.io)
 - **Workshop Slides**: (Link to be added if available)
 
