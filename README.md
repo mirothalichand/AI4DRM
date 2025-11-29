@@ -14,21 +14,27 @@ Whether you're a student, researcher, or professional looking to advance your AI
 
 This repository contains all the study materials, code notebooks, and datasets used during the workshop. The content is organized by session:
 
-### [Session 1: NeuralHydrology & Rainfall-Runoff Modeling](./Session%201)
+### Day 1
+#### [Introduction to ANN](./Day%201/Session%201)
+- **Notebook**: `ANN_Code.ipynb`
+- **Key Concepts**: Basics of Artificial Neural Networks, training simple models.
+
+#### [Session 3: Satellite Flood Detection](./Day%201/Session%203)
+Dedicates to computer vision applications in disaster management.
+- **Notebook**: `Deep_Learning_for_Satellite_Flood_Detection.ipynb`
+- **Key Concepts**: Satellite imagery analysis, flood segmentation, convolutional neural networks (CNNs), remote sensing data processing.
+
+### Day 2
+#### [Session 1: NeuralHydrology & Rainfall-Runoff Modeling](./Day%202/Session%201)
 Focuses on the application of Deep Learning in Hydrology.
 - **Notebook**: `AI4DRM_RR.ipynb` - A comprehensive guide to training and evaluating Rainfall-Runoff models using NeuralHydrology.
 - **Data**: Includes sample data from the CAMELS-US dataset for single and multi-basin modeling.
 - **Key Concepts**: LSTM networks, hydrological modeling, data preprocessing, model evaluation.
 
-### [Session 2: Aurora - Atmospheric Forecasting](./Session%202)
+#### [Session 2: Aurora - Atmospheric Forecasting](./Day%202/Session%202)
 Explores advanced models for atmospheric science.
 - **Notebook**: `Aurora.ipynb`
 - **Key Concepts**: Atmospheric prediction, working with large-scale weather data, specialized model architectures.
-
-### [Session 3: Satellite Flood Detection](./Session%203)
-Dedicates to computer vision applications in disaster management.
-- **Notebook**: `Deep_Learning_for_Satellite_Flood_Detection.ipynb`
-- **Key Concepts**: Satellite imagery analysis, flood segmentation, convolutional neural networks (CNNs), remote sensing data processing.
 
 ---
 
