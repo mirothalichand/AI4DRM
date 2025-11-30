@@ -42,6 +42,11 @@ Explores advanced models for atmospheric science.
 - **Notebook**: `Aurora.ipynb`
 - **Key Concepts**: Atmospheric prediction, working with large-scale weather data, specialized model architectures.
 
+#### [Session 2:  Building image classification using vision transformers](./Day%202/Session%203)
+Explores advanced models for atmospheric science.
+- **Notebook**: `AI4DRM_ViT_Final.ipynb`
+- **Key Concepts**:Vision transformers, Transfer learning, image classification.
+
 ---
 
 ## Getting Started
