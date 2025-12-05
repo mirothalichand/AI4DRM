@@ -19,6 +19,11 @@ This repository contains all the study materials, code notebooks, and datasets u
 - **Notebook**: `ANN_Code.ipynb`
 - **Key Concepts**: Basics of Artificial Neural Networks, training simple models.
 
+#### [Session 2: Landslide Movements Prediction — MLP & 1D-CNN]
+ This session explains the prediction of short-term landslide movements (future 10 minutes) using 2 models:
+- **Multilayer Perceptron (MLP)**
+- **1D Convolutional Neural Network (CNN)**
+
 #### [Session 3: Satellite Flood Detection](./Day%201/Session%203)
 Dedicates to computer vision applications in disaster management.
 - **Notebook**: `Deep_Learning_for_Satellite_Flood_Detection.ipynb`
@@ -46,6 +51,12 @@ Explores advanced models for atmospheric science.
 Explores advanced models for atmospheric science.
 - **Notebook**: `AI4DRM_ViT_Final.ipynb`
 - **Key Concepts**:Vision transformers, Transfer learning, image classification.
+
+  #### [Session 4: Landslide movement prediction — LSTM / CNN-LSTM/ Bi-LSTM]
+  This session explains the prediction of short-term landslide movements (future 10 minutes) using 3 models:
+- **Long Short Term Memory (LSTM)**
+- **Convolutional Neural Network (CNN) + LSTM**
+- **Bi-Directional LSTM (BiLSTM)**
 
 ---
 
